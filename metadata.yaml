@@ -1,0 +1,28 @@
+_repo: Aristotle-and-Ancient-Educational-Ideals_40552
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davidson, Thomas
+    birthdate: 1840
+    deathdate: 1900
+    gutenberg_agent_id: '45850'
+    url: http://www.gutenberg.org/2009/agents/45850
+description: ''
+gutenberg_issued: '2012-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40552'
+  lccn: 07032358
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LA'
+- !lcsh 'Aristotle, 384 BC-322 BC'
+- !lcsh 'Education, Greek'
+title: Aristotle and Ancient Educational Ideals
+url: http://www.gutenberg.org/ebooks/40552
